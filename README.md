@@ -1,6 +1,6 @@
 # Industrial-Engineering-Senior-Design
 
-_The code in this repository, along with the text below, were submitted as part of a senior design project at Georgia Tech._
+_The code in this repository was submitted as part of a senior design project at Georgia Tech._
 
 The Home Depot (THD) is the third largest container importer in North America. Its product suppliers operate roughly 1,000 factories in over 40 countries. THD’s International Logistics (IL) department manages trade operations, trade compliance, and trade risk for all of these imports and spends approximately \[REDACTED] annually for container shipping on the ocean carrier process. This process includes the scheduling and allocation of all purchase orders (POs) to the carriers that THD partners with. The department, however, lacks a dynamic method to determine the cheapest allocation while satisfying demands of the carriers, THD, and origin ports, which causes the department to exceed its annual targeted spend. 
 
